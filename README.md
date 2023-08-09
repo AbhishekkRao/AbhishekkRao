@@ -120,6 +120,13 @@ Feel free to check out my repositories and connect with me. Let's collaborate an
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 </div>
 
+<!--
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AbhishekkRao">
+</a>
+<a href="https://github.com/AbhishekkRao?tab=followers"><img src="https://img.shields.io/github/followers/AbhishekkRao?label=Followers&style=social" alt="GitHub Badge"></a>
+
  <!--<div>
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkrao&layout=compact&langs_count=16&theme=github_dark"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkrao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues"/>

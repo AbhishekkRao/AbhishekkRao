@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-<img align='center' src='https://github.com/abhishekkrao/abhishekkrao/blob/main/assets/daftpunktocat-thomas.gif' width='300'>
+<img align='center' src='assets/daftpunktocat-thomas.gif' width='300'>
 </div>
 
 <div align=center>

@@ -49,20 +49,26 @@ Feel free to check out my repositories and connect with me. Let's collaborate an
   <img alt="C++" src="https://img.shields.io/badge/C++%20-%236D9EEB.svg?logo=c%2B%2B&logoColor=white">
   &emsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  &emsp;
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white">
 </p>
 
 #### Frontend Development
 <p align="left"> 
-  &emsp; 
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  &emsp;
-  <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%230066B8.svg?logo=css3&logoColor=white">
-  &emsp;
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
-  &emsp;
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-  &emsp;
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
+    &emsp; 
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"> 
+    &emsp; 
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%230066B8.svg?logo=css3&logoColor=white"> 
+    &emsp; 
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"> 
+    &emsp; 
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white"> 
+    &emsp; 
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"> 
+    &emsp; 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"> 
+    &emsp; 
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white"> 
 </p>
 
 #### Backend Development & Databases
@@ -87,6 +93,8 @@ Feel free to check out my repositories and connect with me. Let's collaborate an
   <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-%23FF0000.svg?logo=adobe%20after%20effects&logoColor=white">
   &emsp;
   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23EA77FF.svg?logo=adobe%20premiere%20pro&logoColor=white">
+  &emsp;
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white">
 </p>
 
 #### Software & Tools

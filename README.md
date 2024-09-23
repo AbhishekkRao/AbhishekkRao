@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 
 ## 🙋‍♀️ About Me
 <!--- 🔭 I’m currently working on -->
-- 👋 Hello there! I'm a MERN stack developer 
-- 🎓 I'm a 4th-year student pursuing a Bachelor's in Information Technology at NSUT
+<!--- 🔭 I’m currently working on -->
+- 👋 Hello there! I'm a full stack developer 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on OpenSource Projects.
+- 🎓 I have graduated with a Bachelor's in Information Technology from Netaji Subhas University of Technology (NSUT).
 - ⚡ Hobbies: Travelling ✈, Photography 📸, Gaming 🎮
 - 📫 How to reach me: abhishek.komarraju@gmail.com
 

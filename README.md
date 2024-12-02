@@ -41,8 +41,7 @@ Feel free to check out my repositories and connect with me. Let's collaborate an
 
 ## 🛠️ My Skills
 
-#### Programming languages
-
+#### Programming Languages
 <p align="left"> 
   &emsp; 
   <img alt="C" src="https://img.shields.io/badge/C%20-%23007ACC.svg?logo=c&logoColor=white">
@@ -52,6 +51,8 @@ Feel free to check out my repositories and connect with me. Let's collaborate an
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
   &emsp;
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white">
+  &emsp;
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white">
 </p>
 
 #### Frontend Development
@@ -65,9 +66,7 @@ Feel free to check out my repositories and connect with me. Let's collaborate an
     &emsp; 
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white"> 
     &emsp; 
-    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"> 
-    &emsp; 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"> 
+    <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB.svg?logo=mui&logoColor=white">
     &emsp; 
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white"> 
 </p>
@@ -75,42 +74,30 @@ Feel free to check out my repositories and connect with me. Let's collaborate an
 #### Backend Development & Databases
 <p align="left">
   &emsp;
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white">
+  &emsp;
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59.svg?logo=express&logoColor=white">
   &emsp;
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white">
   &emsp;
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
   &emsp;
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
 </p>
-  
-#### Graphic Designing
-<p align="left">
-  &emsp;
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white">
-  &emsp;
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?logo=adobe%20illustrator&logoColor=white">
-  &emsp;
-  <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-%23FF0000.svg?logo=adobe%20after%20effects&logoColor=white">
-  &emsp;
-  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23EA77FF.svg?logo=adobe%20premiere%20pro&logoColor=white">
-  &emsp;
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white">
-</p>
 
-#### Software & Tools
- 
+#### Tools & Platforms
 <p align="left">
   &emsp;
   <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?logo=git&logoColor=white">
+  &emsp;
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
   &emsp;
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
   &emsp;
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white">
   &emsp;
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white">
 </p>
-
 
 <br>
 <be>
